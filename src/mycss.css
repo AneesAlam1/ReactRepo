@@ -1,0 +1,37 @@
+h1
+{
+    background-color: lightblue;
+}
+h2
+{
+    background-color: antiquewhite;
+    color:black;
+    text-align: center;
+}
+.background
+{
+    background-color: lightblue;
+    height:100vh;
+    width:100%;
+    
+}
+.fcolor{
+        color:white;
+        font-size:18px;
+}
+
+
+body
+{
+    padding:4px;
+}
+.ht
+{
+    height:50px;
+}
+.center
+{
+    height: 500px;
+    background-color: rgb(222, 137, 122);
+    padding:5px;
+}
